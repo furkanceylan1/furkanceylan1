@@ -1,6 +1,6 @@
 ### Hi there, I'm Furkan. 👋
 
-<iframe src="https://giphy.com/embed/8b29QJQgVwUW4" width="480" height="444" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/80s-vhs-art-8b29QJQgVwUW4">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/8b29QJQgVwUW4" width="480" height="444" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 - 🔭 I’m currently working on ios app development with swift.
 - 🌱 I’m currently learning Swift(Programming Language).
