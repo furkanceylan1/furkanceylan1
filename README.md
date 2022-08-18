@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on mobile app development.
 - 🤔 I’m looking for help with software architecture.
 - 📫 How to reach me: furkn.ceyln@gmail.com
-<br>
+<br/>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
